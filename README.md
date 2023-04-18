@@ -1,4 +1,4 @@
-# 🐍 Sergii Machulin
+# Sergii Machulin
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeborgesbastos/)](https://#)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeborgesbastos@gmail.com)](mailto:machulinsv@gmail.com)
@@ -6,7 +6,7 @@
 ![Profile visits](https://komarev.com/ghpvc/?username=sergiimachulin&label=Profile%20views&color=0e75b6&style=flat)
 
 ## *Welcome to my profile on Github :octocat:*
-<p>Here you will have access to some of my latest projects.</p>
+<p>Here you have access to some of my latest projects.</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergiimachulin)](https://git.io/streak-stats) 
 
