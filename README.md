@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeborgesbastos/)](https://#)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeborgesbastos@gmail.com)](mailto:machulinsv@gmail.com)
-[![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://sergiimachulin.github.io/projects/)
+[![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](#)
 ![Profile visits](https://komarev.com/ghpvc/?username=sergiimachulin&label=Profile%20views&color=0e75b6&style=flat)
 
 ## *Welcome to my profile on Github :octocat:*
